@@ -3,7 +3,7 @@
 My name is Daeyoung Hwang @ddayin
 
 Job title : Game Client Programmer / Unity Client Programmer  
-My final goal is to develop virtual world like real.
+My final goal is to build virtual world like real.
 
 Tech Stack  
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
