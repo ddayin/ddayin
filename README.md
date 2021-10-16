@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Daeyoung Hwang @ddayin
+My name is Daeyoung Hwang @ddayin
 
 Job title : Game Client Programmer / Unity Client Programmer
 
