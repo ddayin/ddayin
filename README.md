@@ -2,9 +2,9 @@
 
 My name is Daeyoung Hwang @ddayin
 
-Job title : Game Client Programmer / Unity Client Programmer  
+Job title : Unity Programmer  
 My final goal is to build virtual world like real.
-Main interest is on Unity engine & C# language.
+Main interest is in Unity, C#, UE5, C++
 
 Tech Stack  
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
